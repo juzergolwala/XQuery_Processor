@@ -1,0 +1,6 @@
+<OUTPUT>
+<result>
+    <PERSONA>JULIUS CAESAR</PERSONA>
+    <ACT>ACT I</ACT>
+</result>
+</OUTPUT>

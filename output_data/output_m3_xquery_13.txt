@@ -1,0 +1,146 @@
+<OUTPUT>
+<result>
+    <speaker>FLAVIUS</speaker>
+    <scene>SCENE I. Rome. A street.</scene>
+    <act1>ACT I</act1>
+    <act2>ACT I</act2>
+    <act3>ACT I</act3>
+    <act4>ACT I</act4>
+</result>
+<result>
+    <speaker>First Commoner</speaker>
+    <scene>SCENE I. Rome. A street.</scene>
+    <act1>ACT I</act1>
+    <act2>ACT I</act2>
+    <act3>ACT I</act3>
+    <act4>ACT I</act4>
+</result>
+<result>
+    <speaker>MARULLUS</speaker>
+    <scene>SCENE I. Rome. A street.</scene>
+    <act1>ACT I</act1>
+    <act2>ACT I</act2>
+    <act3>ACT I</act3>
+    <act4>ACT I</act4>
+</result>
+<result>
+    <speaker>MARULLUS</speaker>
+    <scene>SCENE I. Rome. A street.</scene>
+    <act1>ACT I</act1>
+    <act2>ACT I</act2>
+    <act3>ACT I</act3>
+    <act4>ACT I</act4>
+</result>
+<result>
+    <speaker>MARULLUS</speaker>
+    <scene>SCENE I. Rome. A street.</scene>
+    <act1>ACT I</act1>
+    <act2>ACT I</act2>
+    <act3>ACT I</act3>
+    <act4>ACT I</act4>
+</result>
+<result>
+    <speaker>MARULLUS</speaker>
+    <scene>SCENE I. Rome. A street.</scene>
+    <act1>ACT I</act1>
+    <act2>ACT I</act2>
+    <act3>ACT I</act3>
+    <act4>ACT I</act4>
+</result>
+<result>
+    <speaker>MARULLUS</speaker>
+    <scene>SCENE I. Rome. A street.</scene>
+    <act1>ACT I</act1>
+    <act2>ACT I</act2>
+    <act3>ACT I</act3>
+    <act4>ACT I</act4>
+</result>
+<result>
+    <speaker>MARULLUS</speaker>
+    <scene>SCENE I. Rome. A street.</scene>
+    <act1>ACT I</act1>
+    <act2>ACT I</act2>
+    <act3>ACT I</act3>
+    <act4>ACT I</act4>
+</result>
+<result>
+    <speaker>MARULLUS</speaker>
+    <scene>SCENE I. Rome. A street.</scene>
+    <act1>ACT I</act1>
+    <act2>ACT I</act2>
+    <act3>ACT I</act3>
+    <act4>ACT I</act4>
+</result>
+<result>
+    <speaker>MARULLUS</speaker>
+    <scene>SCENE I. Rome. A street.</scene>
+    <act1>ACT I</act1>
+    <act2>ACT I</act2>
+    <act3>ACT I</act3>
+    <act4>ACT I</act4>
+</result>
+<result>
+    <speaker>MARULLUS</speaker>
+    <scene>SCENE I. Rome. A street.</scene>
+    <act1>ACT I</act1>
+    <act2>ACT I</act2>
+    <act3>ACT I</act3>
+    <act4>ACT I</act4>
+</result>
+<result>
+    <speaker>MARULLUS</speaker>
+    <scene>SCENE I. Rome. A street.</scene>
+    <act1>ACT I</act1>
+    <act2>ACT I</act2>
+    <act3>ACT I</act3>
+    <act4>ACT I</act4>
+</result>
+<result>
+    <speaker>MARULLUS</speaker>
+    <scene>SCENE I. Rome. A street.</scene>
+    <act1>ACT I</act1>
+    <act2>ACT I</act2>
+    <act3>ACT I</act3>
+    <act4>ACT I</act4>
+</result>
+<result>
+    <speaker>MARULLUS</speaker>
+    <scene>SCENE I. Rome. A street.</scene>
+    <act1>ACT I</act1>
+    <act2>ACT I</act2>
+    <act3>ACT I</act3>
+    <act4>ACT I</act4>
+</result>
+<result>
+    <speaker>MARULLUS</speaker>
+    <scene>SCENE I. Rome. A street.</scene>
+    <act1>ACT I</act1>
+    <act2>ACT I</act2>
+    <act3>ACT I</act3>
+    <act4>ACT I</act4>
+</result>
+<result>
+    <speaker>MARULLUS</speaker>
+    <scene>SCENE I. Rome. A street.</scene>
+    <act1>ACT I</act1>
+    <act2>ACT I</act2>
+    <act3>ACT I</act3>
+    <act4>ACT I</act4>
+</result>
+<result>
+    <speaker>MARULLUS</speaker>
+    <scene>SCENE I. Rome. A street.</scene>
+    <act1>ACT I</act1>
+    <act2>ACT I</act2>
+    <act3>ACT I</act3>
+    <act4>ACT I</act4>
+</result>
+<result>
+    <speaker>MARULLUS</speaker>
+    <scene>SCENE I. Rome. A street.</scene>
+    <act1>ACT I</act1>
+    <act2>ACT I</act2>
+    <act3>ACT I</act3>
+    <act4>ACT I</act4>
+</result>
+</OUTPUT>

@@ -1,0 +1,5 @@
+<OUTPUT>
+<acts>
+    <act>ACT I</act>
+</acts>
+</OUTPUT>

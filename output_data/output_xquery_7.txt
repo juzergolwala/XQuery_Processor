@@ -1,0 +1,9 @@
+<OUTPUT>
+<result>
+    <who>FLAVIUS</who>
+    <when>
+        <act>ACT I</act>
+        <scene>SCENE I.  Rome. A street.</scene>
+    </when>
+</result>
+</OUTPUT>
