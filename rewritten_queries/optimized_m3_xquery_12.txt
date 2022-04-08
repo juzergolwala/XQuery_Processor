@@ -1,0 +1,57 @@
+for $tuple in join (
+join (
+join (
+
+for
+$a1 in doc("input_data/j_caesar_M3.xml")//ACT,
+$sa in $a1//SCENE,
+$spa in $sa//SPEAKER,
+$spea in $sa//SPEECH
+return  <tuple>{
+<a1>{$a1}</a1>,
+<sa>{$sa}</sa>,
+<spa>{$spa}</spa>,
+<spea>{$spea}</spea>
+}</tuple>,
+
+for
+$a2 in doc("input_data/j_caesar_M3.xml")//ACT,
+$sb in $a2//SCENE,
+$spb in $sb//SPEAKER/text(),
+$speb in $sb//SPEECH
+where $spb = "FLAVIUS"
+return  <tuple>{
+<a2>{$a2}</a2>,
+<sb>{$sb}</sb>,
+<spb>{$spb}</spb>,
+<speb>{$speb}</speb>
+}</tuple>,
+[],[]),
+
+for
+$a3 in doc("input_data/j_caesar_M3.xml")//ACT,
+$sc in $a3//SCENE,
+$spc in $sc//SPEAKER,
+$spec in $sc//SPEECH
+return  <tuple>{
+<a3>{$a3}</a3>,
+<sc>{$sc}</sc>,
+<spc>{$spc}</spc>,
+<spec>{$spec}</spec>
+}</tuple>,
+[spa,sb,speb],[spc,sc,spec]),
+
+for
+$a4 in doc("input_data/j_caesar_M3.xml")//ACT,
+$sd in $a4//SCENE,
+$spd in $sd//SPEAKER/text(),
+$sped in $sd//SPEECH
+where $spd = "FLAVIUS"
+return  <tuple>{
+<a4>{$a4}</a4>,
+<sd>{$sd}</sd>,
+<spd>{$spd}</spd>,
+<sped>{$sped}</sped>
+}</tuple>,
+[sa,spea],[sd,sped])
+return <result>{<title>{$tuple/sa/*/TITLE/text()}</title>}</result>

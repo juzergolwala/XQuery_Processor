@@ -1,0 +1,40 @@
+for $tuple in join (
+join (
+join (
+
+for
+$a in doc("input_data/j_caesar_M3.xml")//ACT,
+$sa in $a//SCENE/TITLE/text()
+where $sa = "SCENE I. Rome. A Street."
+return  <tuple>{
+<a>{$a}</a>,
+<sa>{$sa}</sa>
+}</tuple>,
+
+for
+$b in doc("input_data/j_caesar_M3.xml")//ACT,
+$sb in $b//SCENE
+return  <tuple>{
+<b>{$b}</b>,
+<sb>{$sb}</sb>
+}</tuple>,
+[],[]),
+
+for
+$c in doc("input_data/j_caesar_M3.xml")//ACT,
+$sc in $c//SCENE
+return  <tuple>{
+<c>{$c}</c>,
+<sc>{$sc}</sc>
+}</tuple>,
+[b,sb],[c,sc]),
+
+for
+$d in doc("input_data/j_caesar_M3.xml")//ACT,
+$sd in $d//SCENE
+return  <tuple>{
+<d>{$d}</d>,
+<sd>{$sd}</sd>
+}</tuple>,
+[],[])
+return <result>{<title>{$tuple/sa/*}</title>}</result>
