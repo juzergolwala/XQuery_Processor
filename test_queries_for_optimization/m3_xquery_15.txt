@@ -1,0 +1,10 @@
+for $a in doc("input_data/j_caesar_M3.xml")//ACT,
+    $b in doc("input_data/j_caesar_M3.xml")//ACT,
+    $c in doc("input_data/j_caesar_M3.xml")//ACT,
+    $d in doc("input_data/j_caesar_M3.xml")//ACT,
+    $sa in $a//SCENE/TITLE/text(),
+    $sb in $b//SCENE,
+    $sc in $c//SCENE,
+    $sd in $d//SCENE
+where $sa="SCENE I. Rome. A Street." and $b eq $c and $sb eq $sc
+return <result>{ <title>{$sa}</title> }</result>

@@ -1,0 +1,11 @@
+for $b in doc("input")/book,
+$a in doc("input")/entry,
+$tb in $b/title,
+$ta in $a/title
+where $tb eq $ta
+return
+<book_with_prices>
+{ $tb,
+<price_review>{ $a/price }</price_review>,
+<price>{ $b/price }</price> }
+</book_with_prices>
