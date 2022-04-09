@@ -24,6 +24,6 @@ Milestone 2:
 For this Milestone, XQuery grammar extends the XPath grammar, and the input data remains the same for this Milestone. 
 
 Milestone 3:
-For this Milestone, the input XQuery is re-written using Join optimizations if it conforms to the subset of Xquery grammar that can be re-written. Further, execution is performed similarly to Milestone 2.
+For this Milestone, the input XQuery is re-written using Join optimizations if it conforms to the subset of XQuery grammar that can be re-written. Further, execution is performed similarly to Milestone 2.
 
 For all the 3 Milestones, we use the Visitor functions of ANTLR4, which visit the nodes in the abstract syntax tree created by parsing the input query as per the specified grammar rules.
